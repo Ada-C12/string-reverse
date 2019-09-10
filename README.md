@@ -1,8 +1,12 @@
 # String Reverse
+
 In this assignment, you'll design and implement one of the string manipulation functions.
 Remember that a string is an array of characters. Algorithms that worked on array data structure will work on strings as well.
 
+This exercise is due:  **Monday Sept 16th**
+
 ## Exercise
+
 * Design and implement a method to reverse a string *in place*. The method takes the string to be reversed as input parameter.
 * Above the method, elaborate the comment to share the time and space complexity of your method.
     * Your solution should optimize the space complexity as much as possible. In other words, do not use any more space than needed.
